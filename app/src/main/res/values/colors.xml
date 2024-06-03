@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellowSimpson">#f8db27</color>
+    <color name="blueSimpson">#2f64d6</color>
+    <color name="redSimpson">#9c5b01</color>
+    <color name="pinkSimpson">#FF0383</color>
+</resources>
